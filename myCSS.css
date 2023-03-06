@@ -2,16 +2,17 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	font: 100%/1.4 fantasy;
 }
 .homePage {
-	background: #222222;
+	background: #E1B3D4;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #A7D5E0;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #E1D878;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,14 +31,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #AFE0BB;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align:left;
 }
 .footer {
-	background: #777777;
+	background: #C5BFE0;
 	margin: 0px;
 	float: left;
 	width: 100%;
